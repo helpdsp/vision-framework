@@ -1,4 +1,4 @@
-﻿# **PROJECT_NAME**
+# **PROJECT_NAME**
 
 Plantilla local-first para ejecutar el flujo VISION completo (brief → spec → sprints → ejecución)
 sin depender de matriz.
@@ -294,6 +294,8 @@ Herramientas MCP disponibles: `matrix_healthcheck`, `matrix_connect_project`,
 
 ## Referencias
 
-- Documentación completa: `GUIA_COMPLETA_VISION.md`
-- Comandos del agente: `AGENTS.md`
-- Estructura de comandos: `commands/README.md`
+- Documentación completa: [GUIA_COMPLETA_VISION.md](file:///c:/DATA/Repos/vision-framework/vision-framework/GUIA_COMPLETA_VISION.md)
+- Curso de capacitación para equipos: [docs/vision-training-course.md](file:///c:/DATA/Repos/vision-framework/vision-framework/docs/vision-training-course.md)
+- Comandos del agente: [AGENTS.md](file:///c:/DATA/Repos/vision-framework/vision-framework/AGENTS.md)
+- Estructura de comandos: [commands/README.md](file:///c:/DATA/Repos/vision-framework/vision-framework/commands/README.md)
+
